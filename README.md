@@ -19,4 +19,6 @@
 |<1400px|xxl|1320px|
 |<1600px|xxxl|1570px|
 
+
+`1rem = 10px`
 </div>
