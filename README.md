@@ -3,6 +3,7 @@
 <div align="center">
 <img src="https://img.shields.io/badge/Flex--box-green">
 <img src="https://img.shields.io/badge/Mehdi%20rabani-yellow">
+  <img src="https://img.shields.io/badge/Rtl-red">
 </div>
 
 ## Media Screen Size
